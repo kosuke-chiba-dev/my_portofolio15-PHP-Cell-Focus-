@@ -68,69 +68,69 @@
 ## スクリーンショット
 <div>
 <p align="center">
-<p>会員登録ページ</p>
+<p>**会員登録ページ**</p>
   <img src="docs/screenshots/joinIndexPage.svg" width="900" alt="会員登録ページ" />
 </p>
-<br><br>
+<br><br><br>
 
 <p align="center">
   <p>登録内容確認ページ(画像設定しなかった場合)</p>
   <img src="docs/screenshots/checkPage1.svg" width="900" alt="登録内容確認ページ(画像設定しなかった場合)" />
 </p>
-<br><br>
+<br><br><br>
 
 <p align="center">
   <p>登録内容確認ページ(画像設定した場合)</p>
   <img src="docs/screenshots/checkPage2.svg" width="900" alt="登録内容確認ページ(画像設定した場合)" />
 </p>
-<br><br>
+<br><br><br>
 
 <p align="center">
   <p>会員登録完了ページ</p>
   <img src="docs/screenshots/thanksPage.svg" width="900" alt="会員登録完了ページ" />
 </p>
-<br><br>
+<br><br><br>
 
 <p align="center">
     <p>ログインページ</p>
   <img src="docs/screenshots/loginPage.svg" width="900" alt="ログインページ" />
 </p>
-<br><br>
+<br><br><br>
 
 
 <p align="center">
   <p>投稿一覧ページ</p>
   <img src="docs/screenshots/indexPage.svg" width="900" alt="投稿一覧ページ" />
 </p>
-<br><br>
+<br><br><br>
 
 
 <p align="center">
   <p>投稿詳細ページ</p>
   <img src="docs/screenshots/showPage.svg" width="900" alt="投稿詳細ページ" />
 </p>
-<br><br>
+<br><br><br>
 
 
 <p align="center">
   <p>投稿編集ページ</p>
   <img src="docs/screenshots/editPage.svg" width="900" alt="投稿編集ページ" />
 </p>
-<br><br>
+<br><br><br>
 
 
 <p align="center">
   <p>プロフィールページ(ログインユーザーのプロフィールページ)</p>
   <img src="docs/screenshots/profilePage1.svg" width="900" alt="プロフィールページ(ログインユーザーのプロフィールページ)" />
 </p>
-<br><br>
+<br><br><br>
 
 
 <p align="center">
   <p>プロフィールページ(ログインユーザー以外のユーザーのプロフィールページ)</p>
   <img src="docs/screenshots/profilePage2.svg" width="900" alt="プロフィールページ(ログインユーザー以外のユーザーのプロフィールページ)" />
 </p>
-<br><br>
+<br><br><br>
 
 
 <p align="center">
