@@ -66,75 +66,78 @@
 
 
 ## スクリーンショット
-<div>
+
+### 1. 会員登録ページ
 <p align="center">
-<p><b>1.会員登録ページ</b></p>
   <img src="docs/screenshots/joinIndexPage.svg" width="900" alt="会員登録ページ" />
 </p>
-<br><br><br>
 
+---
+
+### 2. 登録内容確認ページ（画像設定なし）
 <p align="center">
-  <p><b>2.登録内容確認ページ(画像設定しなかった場合)</b></p>
-  <img src="docs/screenshots/checkPage1.svg" width="900" alt="登録内容確認ページ(画像設定しなかった場合)" />
+  <img src="docs/screenshots/checkPage1.svg" width="900" alt="登録内容確認ページ（画像設定なし）" />
 </p>
-<br><br><br>
 
+---
+
+### 3. 登録内容確認ページ（画像設定あり）
 <p align="center">
-  <p><b>3.登録内容確認ページ(画像設定した場合)</b></p>
-  <img src="docs/screenshots/checkPage2.svg" width="900" alt="登録内容確認ページ(画像設定した場合)" />
+  <img src="docs/screenshots/checkPage2.svg" width="900" alt="登録内容確認ページ（画像設定あり）" />
 </p>
-<br><br><br>
 
+---
+
+### 4. 会員登録完了ページ
 <p align="center">
-  <p><b>4.会員登録完了ページ</b></p>
   <img src="docs/screenshots/thanksPage.svg" width="900" alt="会員登録完了ページ" />
 </p>
-<br><br><br>
 
+---
+
+### 5. ログインページ
 <p align="center">
-    <p><b>5.ログインページ</b></p>
   <img src="docs/screenshots/loginPage.svg" width="900" alt="ログインページ" />
 </p>
-<br><br><br>
 
+---
 
+### 6. 投稿一覧ページ
 <p align="center">
-  <p><b>6.投稿一覧ページ</b></p>
   <img src="docs/screenshots/indexPage.svg" width="900" alt="投稿一覧ページ" />
 </p>
-<br><br><br>
 
+---
 
+### 7. 投稿詳細ページ
 <p align="center">
-  <p><b>7.投稿詳細ページ</b></p>
   <img src="docs/screenshots/showPage.svg" width="900" alt="投稿詳細ページ" />
 </p>
-<br><br><br>
 
+---
 
+### 8. 投稿編集ページ
 <p align="center">
-  <p><b>8.投稿編集ページ</b></p>
   <img src="docs/screenshots/editPage.svg" width="900" alt="投稿編集ページ" />
 </p>
-<br><br><br>
 
+---
 
+### 9. プロフィールページ（ログインユーザー）
 <p align="center">
-  <p><b>9.プロフィールページ(ログインユーザーのプロフィールページ)</b></p>
-  <img src="docs/screenshots/profilePage1.svg" width="900" alt="プロフィールページ(ログインユーザーのプロフィールページ)" />
+  <img src="docs/screenshots/profilePage1.svg" width="900" alt="プロフィールページ（ログインユーザー）" />
 </p>
-<br><br><br>
 
+---
 
+### 10. プロフィールページ（他ユーザー）
 <p align="center">
-  <p><b>10.プロフィールページ(ログインユーザー以外のユーザーのプロフィールページ)</b></p>
-  <img src="docs/screenshots/profilePage2.svg" width="900" alt="プロフィールページ(ログインユーザー以外のユーザーのプロフィールページ)" />
+  <img src="docs/screenshots/profilePage2.svg" width="900" alt="プロフィールページ（他ユーザー）" />
 </p>
-<br><br><br>
 
+---
 
+### 11. プロフィール編集ページ
 <p align="center">
-  <p><b>11.プロフィール編集ページ</b></p>
   <img src="docs/screenshots/profileEditPage.svg" width="900" alt="プロフィール編集ページ" />
 </p>
-</div>
