@@ -80,7 +80,7 @@ if (isset($_SESSION['member'])):
         <div class="content">
           <?php if ($cnt === 1): ?>
             <article class="message">
-              <a href="./profile/profile.php?id=<?php echo $member_id ?>"><img class="message__avatar"
+              <a href="./profile/profile.php?id=<?php echo $member_id ?>" class="message_avatar_link"><img class="message__avatar"
                   src="./member_picture/<?php echo htmlspecialchars($picture, ENT_QUOTES); ?>" alt="ユーザーアイコン" /></a>
               <div class="message__main">
                 <h2 class="message_item">
@@ -102,7 +102,7 @@ if (isset($_SESSION['member'])):
           <?php endif; ?>
 
           <?php if ($cnt === 0): ?>
-            <p class="notfound-text notice notice--error">その投稿は削除されたか、URLが間違えています</p>
+            <p class="notfound-text notice notice--error">その連絡は削除されたか、URLが間違えています</p>
           <?php endif; ?>
         </div>
       </div>

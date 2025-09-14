@@ -68,10 +68,10 @@ if (isset($_SESSION['member'])):
                 <div class="inner">
                     <form class="post-form card" action="" method="post">
                         <dl class="post-fields">
-                            <dt class="post-fields__label"><?php echo htmlspecialchars($member['name']); ?>さん、メッセージをどうぞ</dt>
+                            <dt class="post-fields__label"><?php echo htmlspecialchars($member['name']); ?>さん、連絡をどうぞ</dt>
                             <dd class="post-fields__control">
                                 <textarea class="post-textarea" name="message" cols="50" rows="5"
-                                    placeholder="いま何してる？"></textarea>
+                                    placeholder="連絡内容"></textarea>
                             </dd>
                         </dl>
                         <div class="form-actions">
@@ -80,7 +80,7 @@ if (isset($_SESSION['member'])):
                     </form>
 
                     <section class="message-listArea">
-                        <h2 class="message-list__title">ひとこと一覧 (最新順)</h2>
+                        <h2 class="message-list__title">連絡一覧 (最新順)</h2>
                         <div class="message-list">
                             <?php while ($post = $posts->fetch_assoc()): ?>
                                 <article class="message card">

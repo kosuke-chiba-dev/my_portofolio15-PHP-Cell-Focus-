@@ -52,10 +52,10 @@ if (isset($_SESSION['member'])):
         $message = trim((string) filter_input(INPUT_POST, 'message', FILTER_UNSAFE_RAW));
 
         if ($message === '') {
-            $errors[] = 'メッセージを入力してください。';
+            $errors[] = '連絡を入力してください。';
         }
         if (mb_strlen($message) > 1000) {
-            $errors[] = 'メッセージは1000文字以内で入力してください。';
+            $errors[] = '連絡は1000文字以内で入力してください。';
         }
 
         if (empty($errors)) {
@@ -141,20 +141,20 @@ if (isset($_SESSION['member'])):
 
                     <?php if (!empty($forbidden)): ?>
                         <p class="error card">
-                            この投稿を編集する権限がありません。
+                            この連絡を編集する権限がありません。
                         </p>
                     <?php else: ?>
 
-                        <form class="post-form" action="" method="post">
+                       <form class="post-form" action="" method="post">
                             <dl class="post-fields">
                                 <dt class="post-fields__label">
-                                    <?php echo htmlspecialchars($member['name'], ENT_QUOTES, 'UTF-8'); ?> さんの投稿
+                                    <?php echo htmlspecialchars($member['name'], ENT_QUOTES, 'UTF-8'); ?> さんの連絡
                                     （更新日時：<time
                                         class="message__time"><?php echo htmlspecialchars($post['modified'], ENT_QUOTES, 'UTF-8'); ?></time>）
                                 </dt>
                                 <dd class="post-fields__control">
                                     <textarea class="post-textarea" name="message" cols="50" rows="5"
-                                        placeholder="メッセージを編集してください"><?php
+                                        placeholder="連絡内容を編集してください"><?php
                                         echo htmlspecialchars($post['message'], ENT_QUOTES, 'UTF-8');
                                         ?></textarea>
                                 </dd>
