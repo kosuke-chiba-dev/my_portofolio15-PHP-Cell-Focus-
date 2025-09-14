@@ -102,23 +102,23 @@
 
 ---
 
-### 6. 投稿一覧ページ
+### 6. 連絡一覧ページ
 <p align="center">
-  <img src="docs/screenshots/indexPage.svg" width="900" alt="投稿一覧ページ" />
+  <img src="docs/screenshots/indexPage.svg" width="900" alt="連絡一覧ページ" />
 </p>
 
 ---
 
-### 7. 投稿詳細ページ
+### 7. 連絡詳細ページ
 <p align="center">
-  <img src="docs/screenshots/showPage.svg" width="900" alt="投稿詳細ページ" />
+  <img src="docs/screenshots/showPage.svg" width="900" alt="連絡詳細ページ" />
 </p>
 
 ---
 
-### 8. 投稿編集ページ
+### 8. 連絡編集ページ
 <p align="center">
-  <img src="docs/screenshots/editPage.svg" width="900" alt="投稿編集ページ" />
+  <img src="docs/screenshots/editPage.svg" width="900" alt="連絡編集ページ" />
 </p>
 
 ---
