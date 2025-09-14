@@ -1,0 +1,131 @@
+.post-fields {
+}
+
+.post-fields__label {
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+
+.post-fields__control {
+  border: 1px solid #888;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.post-textarea {
+  padding: 8px 10px;
+  width: 100%;
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
+.btn {
+  border: 1px solid #888;
+  padding: 8px 12px;
+  display: block;
+  width: fit-content;
+  border-radius: 10px;
+  transition: color ease 0.3s, border-color ease 0.3s,
+    background-color ease 0.3s;
+  &:hover {
+    color: rgba(255, 255, 255, 0.92);
+    background-color: #111;
+    border-color: rgba(255, 255, 255, 0.92);
+  }
+}
+
+.message-listArea {
+  margin-top: 30px;
+}
+
+.message-list {
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.message {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+}
+
+.message-list__title {
+  margin-bottom: 20px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.message__avatar {
+  border-radius: 50%;
+}
+
+.message_avatar_link {
+  flex-shrink: 0;
+  width: 60px;
+  opacity: 1;
+  transition: opacity ease 0.6s;
+  &:hover {
+    opacity: 0.6;
+  }
+}
+.message__avatar {
+  width: 60px;
+  aspect-ratio: 1 / 1;
+  border-radius: 50%;
+}
+
+.message__link {
+  opacity: 1;
+  transition: border-bottom-color 0.2s ease, opacity 0.2s ease;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  &:hover {
+    opacity: 0.6;
+  }
+}
+
+.message__meta {
+  margin-top: 3px;
+}
+
+.message__text {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
+.message__action {
+  opacity: 1;
+  transition: opacity ease 0.6s;
+  &:hover {
+    opacity: 0.6;
+  }
+}
+
+.message__action--edit {
+  color: #22c55e;
+}
+
+.message__action--delete {
+  color: #ef4444;
+}
+
+.content--edit {
+  margin-bottom: 25px;
+}
+
+.top_return_link_bottom {
+  color: #888;
+  border-bottom: 1px solid transparent;
+  &:hover {
+    opacity: 0.6;
+    border-bottom: 1px solid #888;
+  }
+  transition: opacity ease 0.3s, border-bottom ease 0.3s;
+}
+
+.error-list {
+  margin-bottom: 15px;
+}

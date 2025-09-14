@@ -1,0 +1,41 @@
+.auth-lead {
+  margin-bottom: 20px;
+}
+.lead-title {
+  margin-bottom: 14px;
+  font-size: 20px;
+}
+
+.lead-link__title {
+  margin-bottom: 8px;
+}
+
+.lead-link {
+  color: #888;
+  a {
+    color: #888;
+    border-bottom: 1px solid transparent;
+    &:hover {
+      opacity: 0.6;
+      border-bottom: 1px solid #888;
+    }
+    transition: opacity ease 0.3s, border-bottom ease 0.3s;
+  }
+}
+
+.auth-fields__control {
+  margin-bottom: 15px;
+}
+
+.input {
+  padding: 8px 12px;
+  border: 1px solid #888;
+  border-radius: 5px;
+  transition: border-color ease 0.3s;
+  &:hover {
+    border: 1px solid rgba(136, 136, 136, 0.5);
+  }
+  &:focus {
+    border: 1px solid rgba(136, 136, 136, 0.5);
+  }
+}
