@@ -28,7 +28,7 @@ if ($referer !== $allowed_referer) {
 		</header>
 
 		<div id="content" class="inner">
-			<p class="lead-title">ユーザー登録が完了しました</p>
+			<p class="lead-title">会員登録が完了しました</p>
 			<p class="lead-link"><a href="../">ログインする</a></p>
 		</div>
 
