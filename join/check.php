@@ -81,7 +81,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 					<dt>写真など</dt>
 					<dd>
 						<img src="../member_picture/<?= htmlspecialchars($imageFile, ENT_QUOTES) ?>" width="100"
-							alt="プロフィール画像" />
+							alt="プロフィール画像" style="border-radius: 50%; aspect-ratio: 1 / 1;"/>
 					</dd>
 				</dl>
 				<div>
