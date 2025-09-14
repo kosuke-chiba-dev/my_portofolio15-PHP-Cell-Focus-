@@ -57,8 +57,53 @@
 ---
 
 ## 名前の由来（Cell Focus）
-- **目的が一発で伝わる**：「少人数チーム × 集中」。雑談から重要連絡を分離するコンセプトを表現  
+- **目的が一発で伝わる**：「少人数チーム × 集中」。雑談から重要連絡を分離するコンセプトを表現
 - **B2Bらしい信頼感**：堅めの名刺やLPにも載せやすい名前  
 - **“Cell” の語感**：Cell（単位）＝**小さな単位（チーム）ごとに導入**できるイメージに合致
 
 ---
+
+
+
+## スクリーンショット
+<p align="center">
+  <img src="docs/screenshots/joinIndex.svg" width="900" alt="会員登録ページ" />
+</p>
+
+
+<p align="center">
+  <img src="docs/screenshots/checkPage.svg" width="900" alt="登録内容確認ページ" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/thanksPage.svg" width="900" alt="会員登録完了ページ" />
+</p>
+
+
+<p align="center">
+  <img src="docs/screenshots/loginPage.svg" width="900" alt="ログインページ" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/indexPage.svg" width="900" alt="トップページ（投稿一覧）" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/showPage.svg" width="900" alt="投稿詳細ページ" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/editPage.svg" width="900" alt="投稿編集ページ" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/profilePage1.svg" width="900" alt="プロフィールページ" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/profilePage2.svg" width="900" alt="プロフィールページ" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/profileEditPage.svg" width="900" alt="プロフィール編集ページ" />
+</p>
