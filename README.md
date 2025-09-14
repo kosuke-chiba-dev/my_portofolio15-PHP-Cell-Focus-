@@ -76,14 +76,14 @@
 
 ### 2. 登録内容確認ページ（画像設定なし）
 <p align="center">
-  <img src="docs/screenshots/checkPage1.svg" width="900" alt="登録内容確認ページ（画像設定なし）" />
+  <img src="docs/screenshots/checkPage2.svg" width="900" alt="登録内容確認ページ（画像設定なし）" />
 </p>
 
 ---
 
 ### 3. 登録内容確認ページ（画像設定あり）
 <p align="center">
-  <img src="docs/screenshots/checkPage2.svg" width="900" alt="登録内容確認ページ（画像設定あり）" />
+  <img src="docs/screenshots/checkPage1.svg" width="900" alt="登録内容確認ページ（画像設定あり）" />
 </p>
 
 ---
