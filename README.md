@@ -66,13 +66,18 @@
 
 
 ## スクリーンショット
+<div>
 <p align="center">
-  <img src="docs/screenshots/joinIndex.svg" width="900" alt="会員登録ページ" />
+  <img src="docs/screenshots/joinIndexPage.svg" width="900" alt="会員登録ページ" />
 </p>
 
 
 <p align="center">
-  <img src="docs/screenshots/checkPage.svg" width="900" alt="登録内容確認ページ" />
+  <img src="docs/screenshots/checkPage1.svg" width="900" alt="登録内容確認ページ(画像設定しなかった場合)" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/checkPage2.svg" width="900" alt="登録内容確認ページ(画像設定した場合)" />
 </p>
 
 <p align="center">
@@ -97,13 +102,14 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/profilePage1.svg" width="900" alt="プロフィールページ" />
+  <img src="docs/screenshots/profilePage1.svg" width="900" alt="プロフィールページ(ログインユーザーのプロフィールページ)" />
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/profilePage2.svg" width="900" alt="プロフィールページ" />
+  <img src="docs/screenshots/profilePage2.svg" width="900" alt="プロフィールページ(ログインユーザー以外のユーザーのプロフィールページ)" />
 </p>
 
 <p align="center">
   <img src="docs/screenshots/profileEditPage.svg" width="900" alt="プロフィール編集ページ" />
 </p>
+</div>
